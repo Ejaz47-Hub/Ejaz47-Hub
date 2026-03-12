@@ -1,6 +1,3 @@
-# 💫 About Me:
-Hi 👋 I'm Ejaz Ahmed<br><br>I'm a MERN Stack Developer with a strong interest in backend development.<br>I enjoy building scalable APIs and full-stack web applications.<br><br>💻 Tech Stack:<br>- MongoDB<br>- Express.js<br>- React<br>- Node.js<br>- JavaScript<br>- Python <br><br>🚀 Current Focus:<br>- Backend Development<br>- REST API Design<br>- Database Architecture<br>- Authentication & Security<br><br>📚 Currently Learning:<br>- Advanced Node.js<br>- System Design<br>- Backend Performance Optimization<br><br>🎯 Goal:<br>To become a professional backend developer and build scalable systems.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ejaz-ahmed-786bd/)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ejaz47026@gmail.com) 
