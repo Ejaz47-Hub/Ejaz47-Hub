@@ -12,9 +12,8 @@ Hi 👋 I'm Ejaz Ahmed<br><br>I'm a MERN Stack Developer with a strong interest 
 ![](https://nirzak-streak-stats.vercel.app/?user=Ejaz47-Hub&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ejaz47-Hub&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ejaz47-Hub&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+![snake gif](https://github.com/Ejaz47-Hub/Ejaz47-Hub/blob/output/github-snake-dark.svg)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
