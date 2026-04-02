@@ -1,4 +1,3 @@
-
 🌐 Socials:
 
 <p align="center">
@@ -8,7 +7,9 @@
   <a href="mailto:ejaz47026@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
-</p>---
+</p>
+
+---
 
 💻 Tech Stack:
 
@@ -27,27 +28,31 @@
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>---
+</p>
+
+---
 
 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ejaz47-Hub&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
-</p><p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ejaz47-Hub&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&cache_seconds=86400"/>
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=Ejaz47-Hub&theme=dark&hide_border=true"/>
-</p><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ejaz47-Hub&theme=dark&hide_border=true&layout=compact"/>
-</p>---
+</p>
 
 <p align="center">
-  <img src="https://github.com/Ejaz47-Hub/Ejaz47-Hub/blob/output/github-snake-dark.svg"/>
-</p>---
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ejaz47-Hub&theme=dark&hide_border=true&layout=compact&cache_seconds=86400"/>
+</p>
 
-✍️ Random Dev Quote
+---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>---
+  <img src="https://raw.githubusercontent.com/Ejaz47-Hub/Ejaz47-Hub/output/github-snake-dark.svg"/>
+</p>
+
+---
 
 👀 Visitor Count
 
