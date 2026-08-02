@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ejaz</h1>
-<h3 align="center">MERN Stack Developer | Exploring LLM Engineering</h3>
+<h3 align="center">MERN Stack Developer | Exploring AI Engineering</h3>
 
 <p align="center">
   BCA Graduate • Full-Stack Developer (MERN) • Building with Node.js, React & LLM APIs
