@@ -25,15 +25,46 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,py,flask,mongodb,redis,git,github,postman&theme=dark" />
 </p>
 
-### 🤖 Currently Exploring: LLM Engineering
+### 🤖 Currently Exploring: AI Engineering
 
+**LLMs & APIs**
 <p align="center">
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
 <img src="https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+</p>
+
+**Frameworks & Orchestration**
+<p align="center">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/CrewAI-FF6F00?style=flat-square&logoColor=white"/>
+</p>
+
+**Core Concepts**
+<p align="center">
 <img src="https://img.shields.io/badge/RAG-000000?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-4B0082?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Agents-2E8B57?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Fine--tuning-8B0000?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Embeddings-006400?style=flat-square&logoColor=white"/>
+</p>
+
+**Vector Databases**
+<p align="center">
+<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/FAISS-4267B2?style=flat-square&logoColor=white"/>
+</p>
+
+**ML/DL Foundations**
+<p align="center">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logoColor=black"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 </p>
 
 ---
