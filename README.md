@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Ejaz</h1>
-<h3 align="center">MERN Stack Developer | Exploring AI Engineering</h3>
+<h1 align="center">Hi 👋, I'm Ejaz</h1> <h3 align="center">AI Engineer 🤖 | Full-Stack Web Developer 💻 | MERN Stack Developer</h3>
 
 <p align="center">
   MCA Aspirant • Full-Stack Developer (MERN) • Building with Node.js, React & LLM APIs
 </p>
+
+<p align="center"> Building AI-powered applications, scalable web solutions & intelligent systems with MERN, Python, LLMs and AI Agents. </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ejaz-ahmed-786bd/">
