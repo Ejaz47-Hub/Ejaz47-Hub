@@ -2,7 +2,7 @@
 <h3 align="center">MERN Stack Developer | Exploring AI Engineering</h3>
 
 <p align="center">
-  BCA Graduate • Full-Stack Developer (MERN) • Building with Node.js, React & LLM APIs
+  MCA Aspirant • Full-Stack Developer (MERN) • Building with Node.js, React & LLM APIs
 </p>
 
 <p align="center">
