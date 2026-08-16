@@ -1,83 +1,73 @@
-<h1 align="center">Hi 👋, I'm Ejaz Ahmed</h1>
+# Hi, I'm Ejaz 👋
 
-<h2 align="center">🤖 AI Engineer | 💻 Full-Stack Web Developer | ⚡ MERN Stack Developer</h2>
+📍 **Chhattisgarh, India** | 🤖 **MERN + AI Builder** | 🎓 **BCA Grad → MCA Aspirant**
 
-<p align="center">
-  MCA Aspirant • Building AI-powered applications, scalable web solutions & intelligent systems with MERN, Python, LLMs and AI Agents.
-</p>
+Aspiring **AI Engineer** & **Full-Stack Developer**, building intelligent apps with the MERN stack and modern LLMs.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ejaz-ahmed-786bd/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/ejaz_.x/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:ejaz47026@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
----
+## Start Here
 
-# 🛠️ Tech Stack
+- 🧭 **[LLM Cost/Latency Router](#)** - multi-model gateway across Gemini & Claude with semantic caching, fallback chains, and a cost/latency dashboard
+- 📄 **[AI Resume Analyzer](#)** - resume analysis tool built with Gemini API + Node.js
+- 🎧 **[Spotify Backend API](#)** - backend API project for Spotify-style data
+- ✨ **[EjazAI Portfolio](#)** - glassmorphism portfolio site with an embedded AI chat agent
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,py,flask,mongodb,redis,git,github,postman&theme=dark" />
-</p>
+## Current Projects
 
----
+### AI Engineering
 
-# 🤖 AI Engineering
+- 🧭 **[LLM Cost/Latency Router](#)** - a proxy that routes requests across multiple LLM providers (Gemini, Claude) with semantic caching, fallback chains, and cost/latency observability. Built as a hands-on learning vehicle for LLM APIs, structured output, embeddings, vector similarity, and resilience patterns
+- 📄 **[AI Resume Analyzer](#)** - Gemini API + Node.js tool that analyzes resumes
 
-## 🧠 LLMs & APIs
+### Full-Stack / MERN
 
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-</p>
+- 🎧 **[Spotify Backend API](#)** - backend API project, one of my core portfolio pieces
+- ✨ **[EjazAI Portfolio Website](#)** - glassmorphism personal site with an embedded AI chat agent (EjazAI), built on Bolt.new + Railway + Anthropic API
 
-## 🔗 Frameworks & Orchestration
+## Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CrewAI-FF6F00?style=for-the-badge&logoColor=white"/>
-</p>
+### Frontend
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-## 🧩 Core Concepts
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-4B0082?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%20Agents-2E8B57?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Fine--tuning-8B0000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Embeddings-006400?style=for-the-badge&logoColor=white"/>
-</p>
+### AI / LLM
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
-## 🗄️ Vector Databases
+### Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FAISS-4267B2?style=for-the-badge&logoColor=white"/>
-</p>
+## GitHub Activity
 
-## 📊 ML / DL Foundations
+![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=Ejaz47-Hub&hide_border=true)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-</p>
-
----
 <!-- GitHub Profile Summary Cards -->
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ejaz47-Hub&theme=tokyonight" width="95%" />
 </p>
@@ -87,25 +77,31 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ejaz47-Hub&theme=tokyonight" width="45%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ejaz47-Hub&theme=tokyonight" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ejaz47-Hub&theme=tokyonight&utcOffset=5.5" width="45%" />
-</p>
+## What I'm Doing
+
+- **Learning in public** - working through a structured LLM Engineering roadmap alongside my MERN stack work
+- **Building portfolio projects** - shipping AI-powered tools (resume analyzer, LLM router) to learn the AI engineering stack hands-on, not just copying tutorials
+- **Job hunting as a fresher** - applying for MERN/full-stack and LLM Engineering roles across LinkedIn, Wellfound, Instahyre, Cutshort, and Internshala
+- **Prepping for MCA** - continuing formal CS education after my BCA
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/-Ejaz_Ahmed-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ejaz-ahmed-786bd/)
+[![Instagram](https://img.shields.io/badge/-ejaz_.x-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ejaz_.x/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ejaz47026@gmail.com)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ejaz47-Hub)
 
 ---
 
-# 🐍 Contribution Snake
+### Background
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ejaz47-Hub/Ejaz47-Hub/output/github-snake-dark.svg" alt="GitHub Contribution Snake"/>
-</p>
+- BCA graduate, Hemchand Yadav Vishwavidyalaya, Chhattisgarh (2023–26 batch)
+- Core stack: React, Redux Toolkit, TailwindCSS, Node.js, Express.js, MongoDB, Redis, Flask, JWT, Gemini API, Claude API
 
----
+### Philosophy
+
+> "Building. Learning. Shipping. Repeating." - I ship real projects to actually learn the AI engineering stack, not just collect tutorials.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ejaz47-Hub&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
-
-<p align="center">
-  <b>⚡ Building. Learning. Shipping. Repeating.</b>
 </p>
