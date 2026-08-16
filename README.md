@@ -76,11 +76,20 @@
 </p>
 
 ---
-
-# 📊 GitHub Activity
+<!-- GitHub Profile Summary Cards -->
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ejaz47-Hub&theme=dark&hide_border=true" width="600"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ejaz47-Hub&theme=tokyonight" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ejaz47-Hub&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ejaz47-Hub&theme=tokyonight" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ejaz47-Hub&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ejaz47-Hub&theme=tokyonight&utcOffset=5.5" width="45%" />
 </p>
 
 ---
