@@ -2,7 +2,7 @@
 
 📍 **Chhattisgarh, India** | 🤖 **MERN + AI Builder** | 🎓 **BCA Grad → MCA Aspirant**
 
-Aspiring **AI Engineer** & **Full-Stack Developer**, building intelligent apps with the MERN stack and modern LLMs.
+Aspiring **AI Engineer**, **ML Engineer** & **Full-Stack Developer**, building intelligent apps with the MERN stack and modern LLMs.
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
@@ -24,7 +24,7 @@ Aspiring **AI Engineer** & **Full-Stack Developer**, building intelligent apps w
 
 ## Current Projects
 
-### AI Engineering
+### AI / ML Engineering
 
 - 🧭 **[LLM Cost/Latency Router](#)** - a proxy that routes requests across multiple LLM providers (Gemini, Claude) with semantic caching, fallback chains, and cost/latency observability. Built as a hands-on learning vehicle for LLM APIs, structured output, embeddings, vector similarity, and resilience patterns
 - 📄 **[AI Resume Analyzer](#)** - Gemini API + Node.js tool that analyzes resumes
@@ -53,7 +53,7 @@ Aspiring **AI Engineer** & **Full-Stack Developer**, building intelligent apps w
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-### AI / LLM
+### AI / ML
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white)
@@ -80,8 +80,8 @@ Aspiring **AI Engineer** & **Full-Stack Developer**, building intelligent apps w
 ## What I'm Doing
 
 - **Learning in public** - working through a structured LLM Engineering roadmap alongside my MERN stack work
-- **Building portfolio projects** - shipping AI-powered tools (resume analyzer, LLM router) to learn the AI engineering stack hands-on, not just copying tutorials
-- **Job hunting as a fresher** - applying for MERN/full-stack and LLM Engineering roles across LinkedIn, Wellfound, Instahyre, Cutshort, and Internshala
+- **Building portfolio projects** - shipping AI/ML-powered tools (resume analyzer, LLM router) to learn the AI and ML engineering stack hands-on, not just copying tutorials
+- **Job hunting as a fresher** - applying for MERN/full-stack, ML Engineering, and AI/LLM Engineering roles across LinkedIn, Wellfound, Instahyre, Cutshort, and Internshala
 - **Prepping for MCA** - continuing formal CS education after my BCA
 
 ## Connect
